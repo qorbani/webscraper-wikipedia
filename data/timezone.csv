@@ -1,0 +1,549 @@
+CountryCode,Coordinates,Name,Comments,OffsetUTC,OffsetUTCDST,Notes,CountryCodeISO,CountryCodeISOWiki,Link,OffsetUTCMinutes,OffsetUTCDSTMinutes
+CI,+0519-00402,Africa/Abidjan,,+00:00,+00:00,,ISO 3166-1:CI,/wiki/ISO_3166-1:CI,,0,0
+GH,+0533-00013,Africa/Accra,,+00:00,+00:00,,ISO 3166-1:GH,/wiki/ISO_3166-1:GH,,0,0
+ET,+0902+03842,Africa/Addis_Ababa,,+03:00,+03:00,,ISO 3166-1:ET,/wiki/ISO_3166-1:ET,,180,180
+DZ,+3647+00303,Africa/Algiers,,+01:00,+01:00,,ISO 3166-1:DZ,/wiki/ISO_3166-1:DZ,,60,60
+ER,+1520+03853,Africa/Asmara,,+03:00,+03:00,,ISO 3166-1:ER,/wiki/ISO_3166-1:ER,,180,180
+,,Africa/Asmera,,+03:00,+03:00,Link to Africa/Asmara,,,Africa/Asmara,180,180
+ML,+1239-00800,Africa/Bamako,,+00:00,+00:00,,ISO 3166-1:ML,/wiki/ISO_3166-1:ML,,0,0
+CF,+0422+01835,Africa/Bangui,,+01:00,+01:00,,ISO 3166-1:CF,/wiki/ISO_3166-1:CF,,60,60
+GM,+1328-01639,Africa/Banjul,,+00:00,+00:00,,ISO 3166-1:GM,/wiki/ISO_3166-1:GM,,0,0
+GW,+1151-01535,Africa/Bissau,,+00:00,+00:00,,ISO 3166-1:GW,/wiki/ISO_3166-1:GW,,0,0
+MW,-1547+03500,Africa/Blantyre,,+02:00,+02:00,,ISO 3166-1:MW,/wiki/ISO_3166-1:MW,,120,120
+CG,-0416+01517,Africa/Brazzaville,,+01:00,+01:00,,ISO 3166-1:CG,/wiki/ISO_3166-1:CG,,60,60
+BI,-0323+02922,Africa/Bujumbura,,+02:00,+02:00,,ISO 3166-1:BI,/wiki/ISO_3166-1:BI,,120,120
+EG,+3003+03115,Africa/Cairo,,+02:00,+02:00,DST has been canceled since 2011,ISO 3166-1:EG,/wiki/ISO_3166-1:EG,,120,120
+MA,+3339-00735,Africa/Casablanca,,+00:00,+01:00,,ISO 3166-1:MA,/wiki/ISO_3166-1:MA,,0,60
+ES,+3553-00519,Africa/Ceuta,Ceuta & Melilla,+01:00,+02:00,,ISO 3166-1:ES,/wiki/ISO_3166-1:ES,,60,120
+GN,+0931-01343,Africa/Conakry,,+00:00,+00:00,,ISO 3166-1:GN,/wiki/ISO_3166-1:GN,,0,0
+SN,+1440-01726,Africa/Dakar,,+00:00,+00:00,,ISO 3166-1:SN,/wiki/ISO_3166-1:SN,,0,0
+TZ,-0648+03917,Africa/Dar_es_Salaam,,+03:00,+03:00,,ISO 3166-1:TZ,/wiki/ISO_3166-1:TZ,,180,180
+DJ,+1136+04309,Africa/Djibouti,,+03:00,+03:00,,ISO 3166-1:DJ,/wiki/ISO_3166-1:DJ,,180,180
+CM,+0403+00942,Africa/Douala,,+01:00,+01:00,,ISO 3166-1:CM,/wiki/ISO_3166-1:CM,,60,60
+EH,+2709-01312,Africa/El_Aaiun,,+00:00,+00:00,,ISO 3166-1:EH,/wiki/ISO_3166-1:EH,,0,0
+SL,+0830-01315,Africa/Freetown,,+00:00,+00:00,,ISO 3166-1:SL,/wiki/ISO_3166-1:SL,,0,0
+BW,-2439+02555,Africa/Gaborone,,+02:00,+02:00,,ISO 3166-1:BW,/wiki/ISO_3166-1:BW,,120,120
+ZW,-1750+03103,Africa/Harare,,+02:00,+02:00,,ISO 3166-1:ZW,/wiki/ISO_3166-1:ZW,,120,120
+ZA,-2615+02800,Africa/Johannesburg,,+02:00,+02:00,,ISO 3166-1:ZA,/wiki/ISO_3166-1:ZA,,120,120
+SS,+0451+03136,Africa/Juba,,+03:00,+03:00,,ISO 3166-1:SS,/wiki/ISO_3166-1:SS,,180,180
+UG,+0019+03225,Africa/Kampala,,+03:00,+03:00,,ISO 3166-1:UG,/wiki/ISO_3166-1:UG,,180,180
+SD,+1536+03232,Africa/Khartoum,,+03:00,+03:00,,ISO 3166-1:SD,/wiki/ISO_3166-1:SD,,180,180
+RW,-0157+03004,Africa/Kigali,,+02:00,+02:00,,ISO 3166-1:RW,/wiki/ISO_3166-1:RW,,120,120
+CD,-0418+01518,Africa/Kinshasa,west Dem. Rep. of Congo,+01:00,+01:00,,ISO 3166-1:CD,/wiki/ISO_3166-1:CD,,60,60
+NG,+0627+00324,Africa/Lagos,,+01:00,+01:00,,ISO 3166-1:NG,/wiki/ISO_3166-1:NG,,60,60
+GA,+0023+00927,Africa/Libreville,,+01:00,+01:00,,ISO 3166-1:GA,/wiki/ISO_3166-1:GA,,60,60
+TG,+0608+00113,Africa/Lome,,+00:00,+00:00,,ISO 3166-1:TG,/wiki/ISO_3166-1:TG,,0,0
+AO,-0848+01314,Africa/Luanda,,+01:00,+01:00,,ISO 3166-1:AO,/wiki/ISO_3166-1:AO,,60,60
+CD,-1140+02728,Africa/Lubumbashi,east Dem. Rep. of Congo,+02:00,+02:00,,ISO 3166-1:CD,/wiki/ISO_3166-1:CD,,120,120
+ZM,-1525+02817,Africa/Lusaka,,+02:00,+02:00,,ISO 3166-1:ZM,/wiki/ISO_3166-1:ZM,,120,120
+GQ,+0345+00847,Africa/Malabo,,+01:00,+01:00,,ISO 3166-1:GQ,/wiki/ISO_3166-1:GQ,,60,60
+MZ,-2558+03235,Africa/Maputo,,+02:00,+02:00,,ISO 3166-1:MZ,/wiki/ISO_3166-1:MZ,,120,120
+LS,-2928+02730,Africa/Maseru,,+02:00,+02:00,,ISO 3166-1:LS,/wiki/ISO_3166-1:LS,,120,120
+SZ,-2618+03106,Africa/Mbabane,,+02:00,+02:00,,ISO 3166-1:SZ,/wiki/ISO_3166-1:SZ,,120,120
+SO,+0204+04522,Africa/Mogadishu,,+03:00,+03:00,,ISO 3166-1:SO,/wiki/ISO_3166-1:SO,,180,180
+LR,+0618-01047,Africa/Monrovia,,+00:00,+00:00,,ISO 3166-1:LR,/wiki/ISO_3166-1:LR,,0,0
+KE,-0117+03649,Africa/Nairobi,,+03:00,+03:00,,ISO 3166-1:KE,/wiki/ISO_3166-1:KE,,180,180
+TD,+1207+01503,Africa/Ndjamena,,+01:00,+01:00,,ISO 3166-1:TD,/wiki/ISO_3166-1:TD,,60,60
+NE,+1331+00207,Africa/Niamey,,+01:00,+01:00,,ISO 3166-1:NE,/wiki/ISO_3166-1:NE,,60,60
+MR,+1806-01557,Africa/Nouakchott,,+00:00,+00:00,,ISO 3166-1:MR,/wiki/ISO_3166-1:MR,,0,0
+BF,+1222-00131,Africa/Ouagadougou,,+00:00,+00:00,,ISO 3166-1:BF,/wiki/ISO_3166-1:BF,,0,0
+BJ,+0629+00237,Africa/Porto-Novo,,+01:00,+01:00,,ISO 3166-1:BJ,/wiki/ISO_3166-1:BJ,,60,60
+ST,+0020+00644,Africa/Sao_Tome,,+00:00,+00:00,,ISO 3166-1:ST,/wiki/ISO_3166-1:ST,,0,0
+,,Africa/Timbuktu,,+00:00,+00:00,Link to Africa/Bamako,,,Africa/Bamako,0,0
+LY,+3254+01311,Africa/Tripoli,,+01:00,+02:00,,ISO 3166-1:LY,/wiki/ISO_3166-1:LY,,60,120
+TN,+3648+01011,Africa/Tunis,,+01:00,+01:00,,ISO 3166-1:TN,/wiki/ISO_3166-1:TN,,60,60
+NA,-2234+01706,Africa/Windhoek,,+01:00,+02:00,,ISO 3166-1:NA,/wiki/ISO_3166-1:NA,,60,120
+,,AKST9AKDT,,-09:00,-08:00,Link to America/Anchorage,,,America/Anchorage,-540,-480
+US,+515248-1763929,America/Adak,Aleutian Islands,-10:00,-09:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-600,-540
+US,+611305-1495401,America/Anchorage,Alaska Time,-09:00,-08:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-540,-480
+AI,+1812-06304,America/Anguilla,,-04:00,-04:00,,ISO 3166-1:AI,/wiki/ISO_3166-1:AI,,-240,-240
+AG,+1703-06148,America/Antigua,,-04:00,-04:00,,ISO 3166-1:AG,/wiki/ISO_3166-1:AG,,-240,-240
+BR,-0712-04812,America/Araguaina,Tocantins,-03:00,-03:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-180,-180
+AR,-3436-05827,America/Argentina/Buenos_Aires,"Buenos Aires (BA, CF)",-03:00,-03:00,,ISO 3166-1:AR,/wiki/ISO_3166-1:AR,,-180,-180
+AR,-2828-06547,America/Argentina/Catamarca,"Catamarca (CT), Chubut (CH)",-03:00,-03:00,,ISO 3166-1:AR,/wiki/ISO_3166-1:AR,,-180,-180
+,,America/Argentina/ComodRivadavia,,-03:00,-03:00,Link to America/Argentina/Catamarca,,,America/Argentina/Catamarca,-180,-180
+AR,-3124-06411,America/Argentina/Cordoba,"most locations (CB, CC, CN, ER, FM, MN, SE, SF)",-03:00,-03:00,,ISO 3166-1:AR,/wiki/ISO_3166-1:AR,,-180,-180
+AR,-2411-06518,America/Argentina/Jujuy,Jujuy (JY),-03:00,-03:00,,ISO 3166-1:AR,/wiki/ISO_3166-1:AR,,-180,-180
+AR,-2926-06651,America/Argentina/La_Rioja,La Rioja (LR),-03:00,-03:00,,ISO 3166-1:AR,/wiki/ISO_3166-1:AR,,-180,-180
+AR,-3253-06849,America/Argentina/Mendoza,Mendoza (MZ),-03:00,-03:00,,ISO 3166-1:AR,/wiki/ISO_3166-1:AR,,-180,-180
+AR,-5138-06913,America/Argentina/Rio_Gallegos,Santa Cruz (SC),-03:00,-03:00,,ISO 3166-1:AR,/wiki/ISO_3166-1:AR,,-180,-180
+AR,-2447-06525,America/Argentina/Salta,"(SA, LP, NQ, RN)",-03:00,-03:00,,ISO 3166-1:AR,/wiki/ISO_3166-1:AR,,-180,-180
+AR,-3132-06831,America/Argentina/San_Juan,San Juan (SJ),-03:00,-03:00,,ISO 3166-1:AR,/wiki/ISO_3166-1:AR,,-180,-180
+AR,-3319-06621,America/Argentina/San_Luis,San Luis (SL),-03:00,-03:00,,ISO 3166-1:AR,/wiki/ISO_3166-1:AR,,-180,-180
+AR,-2649-06513,America/Argentina/Tucuman,Tucuman (TM),-03:00,-03:00,,ISO 3166-1:AR,/wiki/ISO_3166-1:AR,,-180,-180
+AR,-5448-06818,America/Argentina/Ushuaia,Tierra del Fuego (TF),-03:00,-03:00,,ISO 3166-1:AR,/wiki/ISO_3166-1:AR,,-180,-180
+AW,+1230-06958,America/Aruba,,-04:00,-04:00,,ISO 3166-1:AW,/wiki/ISO_3166-1:AW,,-240,-240
+PY,-2516-05740,America/Asuncion,,-04:00,-03:00,,ISO 3166-1:PY,/wiki/ISO_3166-1:PY,,-240,-180
+CA,+484531-0913718,America/Atikokan,"Eastern Standard Time - Atikokan, Ontario and Southampton I, Nunavut",-05:00,-05:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-300,-300
+,,America/Atka,,-10:00,-09:00,Link to America/Adak,,,America/Adak,-600,-540
+BR,-1259-03831,America/Bahia,Bahia,-03:00,-03:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-180,-180
+MX,+2048-10515,America/Bahia_Banderas,Mexican Central Time - Bahia de Banderas,-06:00,-05:00,,ISO 3166-1:MX,/wiki/ISO_3166-1:MX,,-360,-300
+BB,+1306-05937,America/Barbados,,-04:00,-04:00,,ISO 3166-1:BB,/wiki/ISO_3166-1:BB,,-240,-240
+BR,-0127-04829,America/Belem,"Amapa, E Para",-03:00,-03:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-180,-180
+BZ,+1730-08812,America/Belize,,-06:00,-06:00,,ISO 3166-1:BZ,/wiki/ISO_3166-1:BZ,,-360,-360
+CA,+5125-05707,America/Blanc-Sablon,Atlantic Standard Time - Quebec - Lower North Shore,-04:00,-04:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-240,-240
+BR,+0249-06040,America/Boa_Vista,Roraima,-04:00,-04:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-240,-240
+CO,+0436-07405,America/Bogota,,-05:00,-05:00,,ISO 3166-1:CO,/wiki/ISO_3166-1:CO,,-300,-300
+US,+433649-1161209,America/Boise,Mountain Time - south Idaho & east Oregon,-07:00,-06:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-420,-360
+,,America/Buenos_Aires,,-03:00,-03:00,Link to America/Argentina/Buenos_Aires,,,America/Argentina/Buenos_Aires,-180,-180
+CA,+690650-1050310,America/Cambridge_Bay,Mountain Time - west Nunavut,-07:00,-06:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-420,-360
+BR,-2027-05437,America/Campo_Grande,Mato Grosso do Sul,-04:00,-03:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-240,-180
+MX,+2105-08646,America/Cancun,Central Time - Quintana Roo,-06:00,-05:00,,ISO 3166-1:MX,/wiki/ISO_3166-1:MX,,-360,-300
+VE,+1030-06656,America/Caracas,,-04:30,-04:30,,ISO 3166-1:VE,/wiki/ISO_3166-1:VE,,-270,-270
+,,America/Catamarca,,-03:00,-03:00,Link to America/Argentina/Catamarca,,,America/Argentina/Catamarca,-180,-180
+GF,+0456-05220,America/Cayenne,,-03:00,-03:00,,ISO 3166-1:GF,/wiki/ISO_3166-1:GF,,-180,-180
+KY,+1918-08123,America/Cayman,,-05:00,-05:00,,ISO 3166-1:KY,/wiki/ISO_3166-1:KY,,-300,-300
+US,+415100-0873900,America/Chicago,Central Time,-06:00,-05:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-360,-300
+MX,+2838-10605,America/Chihuahua,Mexican Mountain Time - Chihuahua away from US border,-07:00,-06:00,,ISO 3166-1:MX,/wiki/ISO_3166-1:MX,,-420,-360
+,,America/Coral_Harbour,,-05:00,-05:00,Link to America/Atikokan,,,America/Atikokan,-300,-300
+,,America/Cordoba,,-03:00,-03:00,Link to America/Argentina/Cordoba,,,America/Argentina/Cordoba,-180,-180
+CR,+0956-08405,America/Costa_Rica,,-06:00,-06:00,,ISO 3166-1:CR,/wiki/ISO_3166-1:CR,,-360,-360
+CA,+4906-11631,America/Creston,"Mountain Standard Time - Creston, British Columbia",-07:00,-07:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-420,-420
+BR,-1535-05605,America/Cuiaba,Mato Grosso,-04:00,-03:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-240,-180
+CW,+1211-06900,America/Curacao,,-04:00,-04:00,,ISO 3166-1:CW,/wiki/ISO_3166-1:CW,,-240,-240
+GL,+7646-01840,America/Danmarkshavn,"east coast, north of Scoresbysund",+00:00,+00:00,,ISO 3166-1:GL,/wiki/ISO_3166-1:GL,,0,0
+CA,+6404-13925,America/Dawson,Pacific Time - north Yukon,-08:00,-07:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-480,-420
+CA,+5946-12014,America/Dawson_Creek,"Mountain Standard Time - Dawson Creek & Fort Saint John, British Columbia",-07:00,-07:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-420,-420
+US,+394421-1045903,America/Denver,Mountain Time,-07:00,-06:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-420,-360
+US,+421953-0830245,America/Detroit,Eastern Time - Michigan - most locations,-05:00,-04:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-300,-240
+DM,+1518-06124,America/Dominica,,-04:00,-04:00,,ISO 3166-1:DM,/wiki/ISO_3166-1:DM,,-240,-240
+CA,+5333-11328,America/Edmonton,"Mountain Time - Alberta, east British Columbia & west Saskatchewan",-07:00,-06:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-420,-360
+BR,-0640-06952,America/Eirunepe,W Amazonas,-04:00,-04:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-240,-240
+SV,+1342-08912,America/El_Salvador,,-06:00,-06:00,,ISO 3166-1:SV,/wiki/ISO_3166-1:SV,,-360,-360
+,,America/Ensenada,,-08:00,-07:00,Link to America/Tijuana,,,America/Tijuana,-480,-420
+,,America/Fort_Wayne,,-05:00,-04:00,Link to America/Indiana/Indianapolis,,,America/Indiana/Indianapolis,-300,-240
+BR,-0343-03830,America/Fortaleza,"NE Brazil (MA, PI, CE, RN, PB)",-03:00,-03:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-180,-180
+CA,+4612-05957,America/Glace_Bay,Atlantic Time - Nova Scotia - places that did not observe DST 1966-1971,-04:00,-03:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-240,-180
+GL,+6411-05144,America/Godthab,most locations,-03:00,-02:00,,ISO 3166-1:GL,/wiki/ISO_3166-1:GL,,-180,-120
+CA,+5320-06025,America/Goose_Bay,Atlantic Time - Labrador - most locations,-04:00,-03:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-240,-180
+TC,+2128-07108,America/Grand_Turk,,-05:00,-04:00,,ISO 3166-1:TC,/wiki/ISO_3166-1:TC,,-300,-240
+GD,+1203-06145,America/Grenada,,-04:00,-04:00,,ISO 3166-1:GD,/wiki/ISO_3166-1:GD,,-240,-240
+GP,+1614-06132,America/Guadeloupe,,-04:00,-04:00,,ISO 3166-1:GP,/wiki/ISO_3166-1:GP,,-240,-240
+GT,+1438-09031,America/Guatemala,,-06:00,-06:00,,ISO 3166-1:GT,/wiki/ISO_3166-1:GT,,-360,-360
+EC,-0210-07950,America/Guayaquil,mainland,-05:00,-05:00,,ISO 3166-1:EC,/wiki/ISO_3166-1:EC,,-300,-300
+GY,+0648-05810,America/Guyana,,-04:00,-04:00,,ISO 3166-1:GY,/wiki/ISO_3166-1:GY,,-240,-240
+CA,+4439-06336,America/Halifax,"Atlantic Time - Nova Scotia (most places), PEI",-04:00,-03:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-240,-180
+CU,+2308-08222,America/Havana,,-05:00,-04:00,,ISO 3166-1:CU,/wiki/ISO_3166-1:CU,,-300,-240
+MX,+2904-11058,America/Hermosillo,Mountain Standard Time - Sonora,-07:00,-07:00,,ISO 3166-1:MX,/wiki/ISO_3166-1:MX,,-420,-420
+US,+394606-0860929,America/Indiana/Indianapolis,Eastern Time - Indiana - most locations,-05:00,-04:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-300,-240
+US,+411745-0863730,America/Indiana/Knox,Central Time - Indiana - Starke County,-06:00,-05:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-360,-300
+US,+382232-0862041,America/Indiana/Marengo,Eastern Time - Indiana - Crawford County,-05:00,-04:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-300,-240
+US,+382931-0871643,America/Indiana/Petersburg,Eastern Time - Indiana - Pike County,-05:00,-04:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-300,-240
+US,+375711-0864541,America/Indiana/Tell_City,Central Time - Indiana - Perry County,-06:00,-05:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-360,-300
+US,+384452-0850402,America/Indiana/Vevay,Eastern Time - Indiana - Switzerland County,-05:00,-04:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-300,-240
+US,+384038-0873143,America/Indiana/Vincennes,"Eastern Time - Indiana - Daviess, Dubois, Knox & Martin Counties",-05:00,-04:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-300,-240
+US,+410305-0863611,America/Indiana/Winamac,Eastern Time - Indiana - Pulaski County,-05:00,-04:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-300,-240
+,,America/Indianapolis,,-05:00,-04:00,Link to America/Indiana/Indianapolis,,,America/Indiana/Indianapolis,-300,-240
+CA,+682059-1334300,America/Inuvik,Mountain Time - west Northwest Territories,-07:00,-06:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-420,-360
+CA,+6344-06828,America/Iqaluit,Eastern Time - east Nunavut - most locations,-05:00,-04:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-300,-240
+JM,+1800-07648,America/Jamaica,,-05:00,-05:00,,ISO 3166-1:JM,/wiki/ISO_3166-1:JM,,-300,-300
+,,America/Jujuy,,-03:00,-03:00,Link to America/Argentina/Jujuy,,,America/Argentina/Jujuy,-180,-180
+US,+581807-1342511,America/Juneau,Alaska Time - Alaska panhandle,-09:00,-08:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-540,-480
+US,+381515-0854534,America/Kentucky/Louisville,Eastern Time - Kentucky - Louisville area,-05:00,-04:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-300,-240
+US,+364947-0845057,America/Kentucky/Monticello,Eastern Time - Kentucky - Wayne County,-05:00,-04:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-300,-240
+,,America/Knox_IN,,-06:00,-05:00,Link to America/Indiana/Knox,,,America/Indiana/Knox,-360,-300
+BQ,+120903-0681636,America/Kralendijk,,-04:00,-04:00,Link to America/Curacao,ISO 3166-1:BQ,/wiki/ISO_3166-1:BQ,America/Curacao,-240,-240
+BO,-1630-06809,America/La_Paz,,-04:00,-04:00,,ISO 3166-1:BO,/wiki/ISO_3166-1:BO,,-240,-240
+PE,-1203-07703,America/Lima,,-05:00,-05:00,,ISO 3166-1:PE,/wiki/ISO_3166-1:PE,,-300,-300
+US,+340308-1181434,America/Los_Angeles,Pacific Time,-08:00,-07:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-480,-420
+,,America/Louisville,,-05:00,-04:00,Link to America/Kentucky/Louisville,,,America/Kentucky/Louisville,-300,-240
+SX,+180305-0630250,America/Lower_Princes,,-04:00,-04:00,Link to America/Curacao,ISO 3166-1:SX,/wiki/ISO_3166-1:SX,America/Curacao,-240,-240
+BR,-0940-03543,America/Maceio,"Alagoas, Sergipe",-03:00,-03:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-180,-180
+NI,+1209-08617,America/Managua,,-06:00,-06:00,,ISO 3166-1:NI,/wiki/ISO_3166-1:NI,,-360,-360
+BR,-0308-06001,America/Manaus,E Amazonas,-04:00,-04:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-240,-240
+MF,+1804-06305,America/Marigot,,-04:00,-04:00,Link to America/Guadeloupe,ISO 3166-1:MF,/wiki/ISO_3166-1:MF,America/Guadeloupe,-240,-240
+MQ,+1436-06105,America/Martinique,,-04:00,-04:00,,ISO 3166-1:MQ,/wiki/ISO_3166-1:MQ,,-240,-240
+MX,+2550-09730,America/Matamoros,"US Central Time - Coahuila, Durango, Nuevo León, Tamaulipas near US border",-06:00,-05:00,,ISO 3166-1:MX,/wiki/ISO_3166-1:MX,,-360,-300
+MX,+2313-10625,America/Mazatlan,"Mountain Time - S Baja, Nayarit, Sinaloa",-07:00,-06:00,,ISO 3166-1:MX,/wiki/ISO_3166-1:MX,,-420,-360
+,,America/Mendoza,,-03:00,-03:00,Link to America/Argentina/Mendoza,,,America/Argentina/Mendoza,-180,-180
+US,+450628-0873651,America/Menominee,"Central Time - Michigan - Dickinson, Gogebic, Iron & Menominee Counties",-06:00,-05:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-360,-300
+MX,+2058-08937,America/Merida,"Central Time - Campeche, Yucatán",-06:00,-05:00,,ISO 3166-1:MX,/wiki/ISO_3166-1:MX,,-360,-300
+US,+550737-1313435,America/Metlakatla,Metlakatla Time - Annette Island,-08:00,-08:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-480,-480
+MX,+1924-09909,America/Mexico_City,Central Time - most locations,-06:00,-05:00,,ISO 3166-1:MX,/wiki/ISO_3166-1:MX,,-360,-300
+PM,+4703-05620,America/Miquelon,,-03:00,-02:00,,ISO 3166-1:PM,/wiki/ISO_3166-1:PM,,-180,-120
+CA,+4606-06447,America/Moncton,Atlantic Time - New Brunswick,-04:00,-03:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-240,-180
+MX,+2540-10019,America/Monterrey,"Mexican Central Time - Coahuila, Durango, Nuevo León, Tamaulipas away from US border",-06:00,-05:00,,ISO 3166-1:MX,/wiki/ISO_3166-1:MX,,-360,-300
+UY,-3453-05611,America/Montevideo,,-03:00,-02:00,,ISO 3166-1:UY,/wiki/ISO_3166-1:UY,,-180,-120
+CA,+4531-07334,America/Montreal,Eastern Time - Quebec - most locations,-05:00,-04:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-300,-240
+MS,+1643-06213,America/Montserrat,,-04:00,-04:00,,ISO 3166-1:MS,/wiki/ISO_3166-1:MS,,-240,-240
+BS,+2505-07721,America/Nassau,,-05:00,-04:00,,ISO 3166-1:BS,/wiki/ISO_3166-1:BS,,-300,-240
+US,+404251-0740023,America/New_York,Eastern Time,-05:00,-04:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-300,-240
+CA,+4901-08816,America/Nipigon,Eastern Time - Ontario & Quebec - places that did not observe DST 1967-1973,-05:00,-04:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-300,-240
+US,+643004-1652423,America/Nome,Alaska Time - west Alaska,-09:00,-08:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-540,-480
+BR,-0351-03225,America/Noronha,Atlantic islands,-02:00,-02:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-120,-120
+US,+471551-1014640,America/North_Dakota/Beulah,Central Time - North Dakota - Mercer County,-06:00,-05:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-360,-300
+US,+470659-1011757,America/North_Dakota/Center,Central Time - North Dakota - Oliver County,-06:00,-05:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-360,-300
+US,+465042-1012439,America/North_Dakota/New_Salem,Central Time - North Dakota - Morton County (except Mandan area),-06:00,-05:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-360,-300
+MX,+2934-10425,America/Ojinaga,US Mountain Time - Chihuahua near US border,-07:00,-06:00,,ISO 3166-1:MX,/wiki/ISO_3166-1:MX,,-420,-360
+PA,+0858-07932,America/Panama,,-05:00,-05:00,,ISO 3166-1:PA,/wiki/ISO_3166-1:PA,,-300,-300
+CA,+6608-06544,America/Pangnirtung,"Eastern Time - Pangnirtung, Nunavut",-05:00,-04:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-300,-240
+SR,+0550-05510,America/Paramaribo,,-03:00,-03:00,,ISO 3166-1:SR,/wiki/ISO_3166-1:SR,,-180,-180
+US,+332654-1120424,America/Phoenix,Mountain Standard Time - Arizona,-07:00,-07:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-420,-420
+TT,+1039-06131,America/Port_of_Spain,,-04:00,-04:00,,ISO 3166-1:TT,/wiki/ISO_3166-1:TT,,-240,-240
+HT,+1832-07220,America/Port-au-Prince,,-05:00,-04:00,,ISO 3166-1:HT,/wiki/ISO_3166-1:HT,,-300,-240
+,,America/Porto_Acre,,-04:00,-04:00,Link to America/Rio_Branco,,,America/Rio_Branco,-240,-240
+BR,-0846-06354,America/Porto_Velho,Rondonia,-04:00,-04:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-240,-240
+PR,+182806-0660622,America/Puerto_Rico,,-04:00,-04:00,,ISO 3166-1:PR,/wiki/ISO_3166-1:PR,,-240,-240
+CA,+4843-09434,America/Rainy_River,"Central Time - Rainy River & Fort Frances, Ontario",-06:00,-05:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-360,-300
+CA,+624900-0920459,America/Rankin_Inlet,Central Time - central Nunavut,-06:00,-05:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-360,-300
+BR,-0803-03454,America/Recife,Pernambuco,-03:00,-03:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-180,-180
+CA,+5024-10439,America/Regina,Central Standard Time - Saskatchewan - most locations,-06:00,-06:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-360,-360
+CA,+744144-0944945,America/Resolute,"Central Standard Time - Resolute, Nunavut",-06:00,-05:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-360,-300
+BR,-0958-06748,America/Rio_Branco,Acre,-04:00,-04:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-240,-240
+,,America/Rosario,,-03:00,-03:00,Link to America/Argentina/Cordoba,,,America/Argentina/Cordoba,-180,-180
+MX,+3018-11452,America/Santa_Isabel,Mexican Pacific Time - Baja California away from US border,-08:00,-07:00,,ISO 3166-1:MX,/wiki/ISO_3166-1:MX,,-480,-420
+BR,-0226-05452,America/Santarem,W Para,-03:00,-03:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-180,-180
+CL,-3327-07040,America/Santiago,most locations,-04:00,-03:00,,ISO 3166-1:CL,/wiki/ISO_3166-1:CL,,-240,-180
+DO,+1828-06954,America/Santo_Domingo,,-04:00,-04:00,,ISO 3166-1:DO,/wiki/ISO_3166-1:DO,,-240,-240
+BR,-2332-04637,America/Sao_Paulo,"S & SE Brazil (GO, DF, MG, ES, RJ, SP, PR, SC, RS)",-03:00,-02:00,,ISO 3166-1:BR,/wiki/ISO_3166-1:BR,,-180,-120
+GL,+7029-02158,America/Scoresbysund,Scoresbysund / Ittoqqortoormiit,-01:00,+00:00,,ISO 3166-1:GL,/wiki/ISO_3166-1:GL,,-60,0
+US,+364708-1084111,America/Shiprock,Mountain Time - Navajo,-07:00,-06:00,Link to America/Denver,ISO 3166-1:US,/wiki/ISO_3166-1:US,America/Denver,-420,-360
+US,+571035-1351807,America/Sitka,Alaska Time - southeast Alaska panhandle,-09:00,-08:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-540,-480
+BL,+1753-06251,America/St_Barthelemy,,-04:00,-04:00,Link to America/Guadeloupe,ISO 3166-1:BL,/wiki/ISO_3166-1:BL,America/Guadeloupe,-240,-240
+CA,+4734-05243,America/St_Johns,"Newfoundland Time, including SE Labrador",-03:30,-02:30,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-210,-150
+KN,+1718-06243,America/St_Kitts,,-04:00,-04:00,,ISO 3166-1:KN,/wiki/ISO_3166-1:KN,,-240,-240
+LC,+1401-06100,America/St_Lucia,,-04:00,-04:00,,ISO 3166-1:LC,/wiki/ISO_3166-1:LC,,-240,-240
+VI,+1821-06456,America/St_Thomas,,-04:00,-04:00,,ISO 3166-1:VI,/wiki/ISO_3166-1:VI,,-240,-240
+VC,+1309-06114,America/St_Vincent,,-04:00,-04:00,,ISO 3166-1:VC,/wiki/ISO_3166-1:VC,,-240,-240
+CA,+5017-10750,America/Swift_Current,Central Standard Time - Saskatchewan - midwest,-06:00,-06:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-360,-360
+HN,+1406-08713,America/Tegucigalpa,,-06:00,-06:00,,ISO 3166-1:HN,/wiki/ISO_3166-1:HN,,-360,-360
+GL,+7634-06847,America/Thule,Thule / Pituffik,-04:00,-03:00,,ISO 3166-1:GL,/wiki/ISO_3166-1:GL,,-240,-180
+CA,+4823-08915,America/Thunder_Bay,"Eastern Time - Thunder Bay, Ontario",-05:00,-04:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-300,-240
+MX,+3232-11701,America/Tijuana,US Pacific Time - Baja California near US border,-08:00,-07:00,,ISO 3166-1:MX,/wiki/ISO_3166-1:MX,,-480,-420
+CA,+4339-07923,America/Toronto,Eastern Time - Ontario - most locations,-05:00,-04:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-300,-240
+VG,+1827-06437,America/Tortola,,-04:00,-04:00,,ISO 3166-1:VG,/wiki/ISO_3166-1:VG,,-240,-240
+CA,+4916-12307,America/Vancouver,Pacific Time - west British Columbia,-08:00,-07:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-480,-420
+,,America/Virgin,,-04:00,-04:00,Link to America/St_Thomas,,,America/St_Thomas,-240,-240
+CA,+6043-13503,America/Whitehorse,Pacific Time - south Yukon,-08:00,-07:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-480,-420
+CA,+4953-09709,America/Winnipeg,Central Time - Manitoba & west Ontario,-06:00,-05:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-360,-300
+US,+593249-1394338,America/Yakutat,Alaska Time - Alaska panhandle neck,-09:00,-08:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-540,-480
+CA,+6227-11421,America/Yellowknife,Mountain Time - central Northwest Territories,-07:00,-06:00,,ISO 3166-1:CA,/wiki/ISO_3166-1:CA,,-420,-360
+AQ,-6617+11031,Antarctica/Casey,"Casey Station, Bailey Peninsula",+11:00,+08:00,,ISO 3166-1:AQ,/wiki/ISO_3166-1:AQ,,660,480
+AQ,-6835+07758,Antarctica/Davis,"Davis Station, Vestfold Hills",+05:00,+07:00,,ISO 3166-1:AQ,/wiki/ISO_3166-1:AQ,,300,420
+AQ,-6640+14001,Antarctica/DumontDUrville,"Dumont-d'Urville Station, Terre Adelie",+10:00,+10:00,,ISO 3166-1:AQ,/wiki/ISO_3166-1:AQ,,600,600
+AQ,-5430+15857,Antarctica/Macquarie,"Macquarie Island Station, Macquarie Island",+11:00,+11:00,,ISO 3166-1:AQ,/wiki/ISO_3166-1:AQ,,660,660
+AQ,-6736+06253,Antarctica/Mawson,"Mawson Station, Holme Bay",+05:00,+05:00,,ISO 3166-1:AQ,/wiki/ISO_3166-1:AQ,,300,300
+AQ,-7750+16636,Antarctica/McMurdo,"McMurdo Station, Ross Island",+12:00,+13:00,,ISO 3166-1:AQ,/wiki/ISO_3166-1:AQ,,720,780
+AQ,-6448-06406,Antarctica/Palmer,"Palmer Station, Anvers Island",-04:00,-03:00,,ISO 3166-1:AQ,/wiki/ISO_3166-1:AQ,,-240,-180
+AQ,-6734-06808,Antarctica/Rothera,"Rothera Station, Adelaide Island",-03:00,-03:00,,ISO 3166-1:AQ,/wiki/ISO_3166-1:AQ,,-180,-180
+AQ,-9000+00000,Antarctica/South_Pole,"Amundsen-Scott Station, South Pole",+12:00,+13:00,Link to Antarctica/McMurdo,ISO 3166-1:AQ,/wiki/ISO_3166-1:AQ,Antarctica/McMurdo,720,780
+AQ,-690022+0393524,Antarctica/Syowa,"Syowa Station, E Ongul I",+03:00,+03:00,,ISO 3166-1:AQ,/wiki/ISO_3166-1:AQ,,180,180
+AQ,-7824+10654,Antarctica/Vostok,"Vostok Station, Lake Vostok",+06:00,+06:00,,ISO 3166-1:AQ,/wiki/ISO_3166-1:AQ,,360,360
+SJ,+7800+01600,Arctic/Longyearbyen,,+01:00,+02:00,Link to Europe/Oslo,ISO 3166-1:SJ,/wiki/ISO_3166-1:SJ,Europe/Oslo,60,120
+YE,+1245+04512,Asia/Aden,,+03:00,+03:00,,ISO 3166-1:YE,/wiki/ISO_3166-1:YE,,180,180
+KZ,+4315+07657,Asia/Almaty,most locations,+06:00,+06:00,,ISO 3166-1:KZ,/wiki/ISO_3166-1:KZ,,360,360
+JO,+3157+03556,Asia/Amman,,+03:00,+03:00,,ISO 3166-1:JO,/wiki/ISO_3166-1:JO,,180,180
+RU,+6445+17729,Asia/Anadyr,Moscow+08 - Bering Sea,+12:00,+12:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,720,720
+KZ,+4431+05016,Asia/Aqtau,"Atyrau (Atirau, Gur'yev), Mangghystau (Mankistau)",+05:00,+05:00,,ISO 3166-1:KZ,/wiki/ISO_3166-1:KZ,,300,300
+KZ,+5017+05710,Asia/Aqtobe,Aqtobe (Aktobe),+05:00,+05:00,,ISO 3166-1:KZ,/wiki/ISO_3166-1:KZ,,300,300
+TM,+3757+05823,Asia/Ashgabat,,+05:00,+05:00,,ISO 3166-1:TM,/wiki/ISO_3166-1:TM,,300,300
+,,Asia/Ashkhabad,,+05:00,+05:00,Link to Asia/Ashgabat,,,Asia/Ashgabat,300,300
+IQ,+3321+04425,Asia/Baghdad,,+03:00,+03:00,,ISO 3166-1:IQ,/wiki/ISO_3166-1:IQ,,180,180
+BH,+2623+05035,Asia/Bahrain,,+03:00,+03:00,,ISO 3166-1:BH,/wiki/ISO_3166-1:BH,,180,180
+AZ,+4023+04951,Asia/Baku,,+04:00,+05:00,,ISO 3166-1:AZ,/wiki/ISO_3166-1:AZ,,240,300
+TH,+1345+10031,Asia/Bangkok,,+07:00,+07:00,,ISO 3166-1:TH,/wiki/ISO_3166-1:TH,,420,420
+LB,+3353+03530,Asia/Beirut,,+02:00,+03:00,,ISO 3166-1:LB,/wiki/ISO_3166-1:LB,,120,180
+KG,+4254+07436,Asia/Bishkek,,+06:00,+06:00,,ISO 3166-1:KG,/wiki/ISO_3166-1:KG,,360,360
+BN,+0456+11455,Asia/Brunei,,+08:00,+08:00,,ISO 3166-1:BN,/wiki/ISO_3166-1:BN,,480,480
+,,Asia/Calcutta,,+05:30,+05:30,Link to Asia/Kolkata,,,Asia/Kolkata,330,330
+MN,+4804+11430,Asia/Choibalsan,"Dornod, Sukhbaatar",+08:00,+08:00,,ISO 3166-1:MN,/wiki/ISO_3166-1:MN,,480,480
+CN,+2934+10635,Asia/Chongqing,"central China - Sichuan, Yunnan, Guangxi, Shaanxi, Guizhou, etc.",+08:00,+08:00,Covering historic Kansu-Szechuan time zone.,ISO 3166-1:CN,/wiki/ISO_3166-1:CN,,480,480
+,,Asia/Chungking,,+08:00,+08:00,Link to Asia/Chongqing,,,Asia/Chongqing,480,480
+LK,+0656+07951,Asia/Colombo,,+05:30,+05:30,,ISO 3166-1:LK,/wiki/ISO_3166-1:LK,,330,330
+,,Asia/Dacca,,+06:00,+06:00,Link to Asia/Dhaka,,,Asia/Dhaka,360,360
+SY,+3330+03618,Asia/Damascus,,+02:00,+03:00,,ISO 3166-1:SY,/wiki/ISO_3166-1:SY,,120,180
+BD,+2343+09025,Asia/Dhaka,,+06:00,+06:00,,ISO 3166-1:BD,/wiki/ISO_3166-1:BD,,360,360
+TL,-0833+12535,Asia/Dili,,+09:00,+09:00,,ISO 3166-1:TL,/wiki/ISO_3166-1:TL,,540,540
+AE,+2518+05518,Asia/Dubai,,+04:00,+04:00,,ISO 3166-1:AE,/wiki/ISO_3166-1:AE,,240,240
+TJ,+3835+06848,Asia/Dushanbe,,+05:00,+05:00,,ISO 3166-1:TJ,/wiki/ISO_3166-1:TJ,,300,300
+PS,+3130+03428,Asia/Gaza,Gaza Strip,+02:00,+03:00,,ISO 3166-1:PS,/wiki/ISO_3166-1:PS,,120,180
+CN,+4545+12641,Asia/Harbin,"Heilongjiang (except Mohe), Jilin",+08:00,+08:00,Covering historic Changpai time zone.,ISO 3166-1:CN,/wiki/ISO_3166-1:CN,,480,480
+PS,+313200+0350542,Asia/Hebron,West Bank,+02:00,+03:00,,ISO 3166-1:PS,/wiki/ISO_3166-1:PS,,120,180
+VN,+1045+10640,Asia/Ho_Chi_Minh,,+07:00,+07:00,,ISO 3166-1:VN,/wiki/ISO_3166-1:VN,,420,420
+HK,+2217+11409,Asia/Hong_Kong,,+08:00,+08:00,,ISO 3166-1:HK,/wiki/ISO_3166-1:HK,,480,480
+MN,+4801+09139,Asia/Hovd,"Bayan-Olgiy, Govi-Altai, Hovd, Uvs, Zavkhan",+07:00,+07:00,,ISO 3166-1:MN,/wiki/ISO_3166-1:MN,,420,420
+RU,+5216+10420,Asia/Irkutsk,Moscow+05 - Lake Baikal,+09:00,+09:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,540,540
+,,Asia/Istanbul,,+02:00,+03:00,Link to Europe/Istanbul,,,Europe/Istanbul,120,180
+ID,-0610+10648,Asia/Jakarta,Java & Sumatra,+07:00,+07:00,,ISO 3166-1:ID,/wiki/ISO_3166-1:ID,,420,420
+ID,-0232+14042,Asia/Jayapura,west New Guinea (Irian Jaya) & Malukus (Moluccas),+09:00,+09:00,,ISO 3166-1:ID,/wiki/ISO_3166-1:ID,,540,540
+IL,+3146+03514,Asia/Jerusalem,,+02:00,+03:00,,ISO 3166-1:IL,/wiki/ISO_3166-1:IL,,120,180
+AF,+3431+06912,Asia/Kabul,,+04:30,+04:30,,ISO 3166-1:AF,/wiki/ISO_3166-1:AF,,270,270
+RU,+5301+15839,Asia/Kamchatka,Moscow+08 - Kamchatka,+12:00,+12:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,720,720
+PK,+2452+06703,Asia/Karachi,,+05:00,+05:00,,ISO 3166-1:PK,/wiki/ISO_3166-1:PK,,300,300
+CN,+3929+07559,Asia/Kashgar,west Tibet & Xinjiang,+08:00,+08:00,Covering historic Kunlun time zone.,ISO 3166-1:CN,/wiki/ISO_3166-1:CN,,480,480
+NP,+2743+08519,Asia/Kathmandu,,+05:45,+05:45,,ISO 3166-1:NP,/wiki/ISO_3166-1:NP,,345,345
+,,Asia/Katmandu,,+05:45,+05:45,Link to Asia/Kathmandu,,,Asia/Kathmandu,345,345
+IN,+2232+08822,Asia/Kolkata,,+05:30,+05:30,"Note: Different zones in history, see Time in India.",ISO 3166-1:IN,/wiki/ISO_3166-1:IN,,330,330
+RU,+5601+09250,Asia/Krasnoyarsk,Moscow+04 - Yenisei River,+08:00,+08:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,480,480
+MY,+0310+10142,Asia/Kuala_Lumpur,peninsular Malaysia,+08:00,+08:00,,ISO 3166-1:MY,/wiki/ISO_3166-1:MY,,480,480
+MY,+0133+11020,Asia/Kuching,Sabah & Sarawak,+08:00,+08:00,,ISO 3166-1:MY,/wiki/ISO_3166-1:MY,,480,480
+KW,+2920+04759,Asia/Kuwait,,+03:00,+03:00,,ISO 3166-1:KW,/wiki/ISO_3166-1:KW,,180,180
+,,Asia/Macao,,+08:00,+08:00,Link to Asia/Macau,,,Asia/Macau,480,480
+MO,+2214+11335,Asia/Macau,,+08:00,+08:00,,ISO 3166-1:MO,/wiki/ISO_3166-1:MO,,480,480
+RU,+5934+15048,Asia/Magadan,Moscow+08 - Magadan,+12:00,+12:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,720,720
+ID,-0507+11924,Asia/Makassar,"east & south Borneo, Sulawesi (Celebes), Bali, Nusa Tenggara, west Timor",+08:00,+08:00,,ISO 3166-1:ID,/wiki/ISO_3166-1:ID,,480,480
+PH,+1435+12100,Asia/Manila,,+08:00,+08:00,,ISO 3166-1:PH,/wiki/ISO_3166-1:PH,,480,480
+OM,+2336+05835,Asia/Muscat,,+04:00,+04:00,,ISO 3166-1:OM,/wiki/ISO_3166-1:OM,,240,240
+CY,+3510+03322,Asia/Nicosia,,+02:00,+03:00,,ISO 3166-1:CY,/wiki/ISO_3166-1:CY,,120,180
+RU,+5345+08707,Asia/Novokuznetsk,Moscow+03 - Novokuznetsk,+07:00,+07:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,420,420
+RU,+5502+08255,Asia/Novosibirsk,Moscow+03 - Novosibirsk,+07:00,+07:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,420,420
+RU,+5500+07324,Asia/Omsk,Moscow+03 - west Siberia,+07:00,+07:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,420,420
+KZ,+5113+05121,Asia/Oral,West Kazakhstan,+05:00,+05:00,,ISO 3166-1:KZ,/wiki/ISO_3166-1:KZ,,300,300
+KH,+1133+10455,Asia/Phnom_Penh,,+07:00,+07:00,,ISO 3166-1:KH,/wiki/ISO_3166-1:KH,,420,420
+ID,-0002+10920,Asia/Pontianak,west & central Borneo,+07:00,+07:00,,ISO 3166-1:ID,/wiki/ISO_3166-1:ID,,420,420
+KP,+3901+12545,Asia/Pyongyang,,+09:00,+09:00,,ISO 3166-1:KP,/wiki/ISO_3166-1:KP,,540,540
+QA,+2517+05132,Asia/Qatar,,+03:00,+03:00,,ISO 3166-1:QA,/wiki/ISO_3166-1:QA,,180,180
+KZ,+4448+06528,Asia/Qyzylorda,"Qyzylorda (Kyzylorda, Kzyl-Orda)",+06:00,+06:00,,ISO 3166-1:KZ,/wiki/ISO_3166-1:KZ,,360,360
+MM,+1647+09610,Asia/Rangoon,,+06:30,+06:30,,ISO 3166-1:MM,/wiki/ISO_3166-1:MM,,390,390
+SA,+2438+04643,Asia/Riyadh,,+03:00,+03:00,,ISO 3166-1:SA,/wiki/ISO_3166-1:SA,,180,180
+,,Asia/Saigon,,+07:00,+07:00,Link to Asia/Ho_Chi_Minh,,,Asia/Ho_Chi_Minh,420,420
+RU,+4658+14242,Asia/Sakhalin,Moscow+07 - Sakhalin Island,+11:00,+11:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,660,660
+UZ,+3940+06648,Asia/Samarkand,west Uzbekistan,+05:00,+05:00,,ISO 3166-1:UZ,/wiki/ISO_3166-1:UZ,,300,300
+KR,+3733+12658,Asia/Seoul,,+09:00,+09:00,,ISO 3166-1:KR,/wiki/ISO_3166-1:KR,,540,540
+CN,+3114+12128,Asia/Shanghai,"east China - Beijing, Guangdong, Shanghai, etc.",+08:00,+08:00,Covering historic Chungyuan time zone.,ISO 3166-1:CN,/wiki/ISO_3166-1:CN,,480,480
+SG,+0117+10351,Asia/Singapore,,+08:00,+08:00,,ISO 3166-1:SG,/wiki/ISO_3166-1:SG,,480,480
+TW,+2503+12130,Asia/Taipei,,+08:00,+08:00,,ISO 3166-1:TW,/wiki/ISO_3166-1:TW,,480,480
+UZ,+4120+06918,Asia/Tashkent,east Uzbekistan,+05:00,+05:00,,ISO 3166-1:UZ,/wiki/ISO_3166-1:UZ,,300,300
+GE,+4143+04449,Asia/Tbilisi,,+04:00,+04:00,,ISO 3166-1:GE,/wiki/ISO_3166-1:GE,,240,240
+IR,+3540+05126,Asia/Tehran,,+03:30,+04:30,,ISO 3166-1:IR,/wiki/ISO_3166-1:IR,,210,270
+,,Asia/Tel_Aviv,,+02:00,+03:00,Link to Asia/Jerusalem,,,Asia/Jerusalem,120,180
+,,Asia/Thimbu,,+06:00,+06:00,Link to Asia/Thimphu,,,Asia/Thimphu,360,360
+BT,+2728+08939,Asia/Thimphu,,+06:00,+06:00,,ISO 3166-1:BT,/wiki/ISO_3166-1:BT,,360,360
+JP,+353916+1394441,Asia/Tokyo,,+09:00,+09:00,,ISO 3166-1:JP,/wiki/ISO_3166-1:JP,,540,540
+,,Asia/Ujung_Pandang,,+08:00,+08:00,Link to Asia/Makassar,,,Asia/Makassar,480,480
+MN,+4755+10653,Asia/Ulaanbaatar,most locations,+08:00,+08:00,,ISO 3166-1:MN,/wiki/ISO_3166-1:MN,,480,480
+,,Asia/Ulan_Bator,,+08:00,+08:00,Link to Asia/Ulaanbaatar,,,Asia/Ulaanbaatar,480,480
+CN,+4348+08735,Asia/Urumqi,most of Tibet & Xinjiang,+08:00,+08:00,Covering historic Sinkiang-Tibet time zone.,ISO 3166-1:CN,/wiki/ISO_3166-1:CN,,480,480
+LA,+1758+10236,Asia/Vientiane,,+07:00,+07:00,,ISO 3166-1:LA,/wiki/ISO_3166-1:LA,,420,420
+RU,+4310+13156,Asia/Vladivostok,Moscow+07 - Amur River,+11:00,+11:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,660,660
+RU,+6200+12940,Asia/Yakutsk,Moscow+06 - Lena River,+10:00,+10:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,600,600
+RU,+5651+06036,Asia/Yekaterinburg,Moscow+02 - Urals,+06:00,+06:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,360,360
+AM,+4011+04430,Asia/Yerevan,,+04:00,+04:00,,ISO 3166-1:AM,/wiki/ISO_3166-1:AM,,240,240
+PT,+3744-02540,Atlantic/Azores,Azores,-01:00,+00:00,,ISO 3166-1:PT,/wiki/ISO_3166-1:PT,,-60,0
+BM,+3217-06446,Atlantic/Bermuda,,-04:00,-03:00,,ISO 3166-1:BM,/wiki/ISO_3166-1:BM,,-240,-180
+ES,+2806-01524,Atlantic/Canary,Canary Islands,+00:00,+01:00,,ISO 3166-1:ES,/wiki/ISO_3166-1:ES,,0,60
+CV,+1455-02331,Atlantic/Cape_Verde,,-01:00,-01:00,,ISO 3166-1:CV,/wiki/ISO_3166-1:CV,,-60,-60
+,,Atlantic/Faeroe,,+00:00,+01:00,Link to Atlantic/Faroe,,,Atlantic/Faroe,0,60
+FO,+6201-00646,Atlantic/Faroe,,+00:00,+01:00,,ISO 3166-1:FO,/wiki/ISO_3166-1:FO,,0,60
+,,Atlantic/Jan_Mayen,,+01:00,+02:00,Link to Europe/Oslo,,,Europe/Oslo,60,120
+PT,+3238-01654,Atlantic/Madeira,Madeira Islands,+00:00,+01:00,,ISO 3166-1:PT,/wiki/ISO_3166-1:PT,,0,60
+IS,+6409-02151,Atlantic/Reykjavik,,+00:00,+00:00,,ISO 3166-1:IS,/wiki/ISO_3166-1:IS,,0,0
+GS,-5416-03632,Atlantic/South_Georgia,,-02:00,-02:00,,ISO 3166-1:GS,/wiki/ISO_3166-1:GS,,-120,-120
+SH,-1555-00542,Atlantic/St_Helena,,+00:00,+00:00,,ISO 3166-1:SH,/wiki/ISO_3166-1:SH,,0,0
+FK,-5142-05751,Atlantic/Stanley,,-03:00,-03:00,,ISO 3166-1:FK,/wiki/ISO_3166-1:FK,,-180,-180
+,,Australia/ACT,,+10:00,+11:00,Link to Australia/Sydney,,,Australia/Sydney,600,660
+AU,-3455+13835,Australia/Adelaide,South Australia,+09:30,+10:30,,ISO 3166-1:AU,/wiki/ISO_3166-1:AU,,570,630
+AU,-2728+15302,Australia/Brisbane,Queensland - most locations,+10:00,+10:00,,ISO 3166-1:AU,/wiki/ISO_3166-1:AU,,600,600
+AU,-3157+14127,Australia/Broken_Hill,New South Wales - Yancowinna,+09:30,+10:30,,ISO 3166-1:AU,/wiki/ISO_3166-1:AU,,570,630
+,,Australia/Canberra,,+10:00,+11:00,Link to Australia/Sydney,,,Australia/Sydney,600,660
+AU,-3956+14352,Australia/Currie,Tasmania - King Island,+10:00,+11:00,,ISO 3166-1:AU,/wiki/ISO_3166-1:AU,,600,660
+AU,-1228+13050,Australia/Darwin,Northern Territory,+09:30,+09:30,,ISO 3166-1:AU,/wiki/ISO_3166-1:AU,,570,570
+AU,-3143+12852,Australia/Eucla,Western Australia - Eucla area,+08:45,+08:45,,ISO 3166-1:AU,/wiki/ISO_3166-1:AU,,525,525
+AU,-4253+14719,Australia/Hobart,Tasmania - most locations,+10:00,+11:00,,ISO 3166-1:AU,/wiki/ISO_3166-1:AU,,600,660
+,,Australia/LHI,,+10:30,+11:00,Link to Australia/Lord_Howe,,,Australia/Lord_Howe,630,660
+AU,-2016+14900,Australia/Lindeman,Queensland - Holiday Islands,+10:00,+10:00,,ISO 3166-1:AU,/wiki/ISO_3166-1:AU,,600,600
+AU,-3133+15905,Australia/Lord_Howe,Lord Howe Island,+10:30,+11:00,,ISO 3166-1:AU,/wiki/ISO_3166-1:AU,,630,660
+AU,-3749+14458,Australia/Melbourne,Victoria,+10:00,+11:00,,ISO 3166-1:AU,/wiki/ISO_3166-1:AU,,600,660
+,,Australia/North,,+09:30,+09:30,Link to Australia/Darwin,,,Australia/Darwin,570,570
+,,Australia/NSW,,+10:00,+11:00,Link to Australia/Sydney,,,Australia/Sydney,600,660
+AU,-3157+11551,Australia/Perth,Western Australia - most locations,+08:00,+08:00,,ISO 3166-1:AU,/wiki/ISO_3166-1:AU,,480,480
+,,Australia/Queensland,,+10:00,+10:00,Link to Australia/Brisbane,,,Australia/Brisbane,600,600
+,,Australia/South,,+09:30,+10:30,Link to Australia/Adelaide,,,Australia/Adelaide,570,630
+AU,-3352+15113,Australia/Sydney,New South Wales - most locations,+10:00,+11:00,,ISO 3166-1:AU,/wiki/ISO_3166-1:AU,,600,660
+,,Australia/Tasmania,,+10:00,+11:00,Link to Australia/Hobart,,,Australia/Hobart,600,660
+,,Australia/Victoria,,+10:00,+11:00,Link to Australia/Melbourne,,,Australia/Melbourne,600,660
+,,Australia/West,,+08:00,+08:00,Link to Australia/Perth,,,Australia/Perth,480,480
+,,Australia/Yancowinna,,+09:30,+10:30,Link to Australia/Broken_Hill,,,Australia/Broken_Hill,570,630
+,,Brazil/Acre,,-04:00,-04:00,Link to America/Rio_Branco,,,America/Rio_Branco,-240,-240
+,,Brazil/DeNoronha,,-02:00,-02:00,Link to America/Noronha,,,America/Noronha,-120,-120
+,,Brazil/East,,-03:00,-02:00,Link to America/Sao_Paulo,,,America/Sao_Paulo,-180,-120
+,,Brazil/West,,-04:00,-04:00,Link to America/Manaus,,,America/Manaus,-240,-240
+,,Canada/Atlantic,,-04:00,-03:00,Link to America/Halifax,,,America/Halifax,-240,-180
+,,Canada/Central,,-06:00,-05:00,Link to America/Winnipeg,,,America/Winnipeg,-360,-300
+,,Canada/Eastern,,-05:00,-04:00,Link to America/Toronto,,,America/Toronto,-300,-240
+,,Canada/East-Saskatchewan,,-06:00,-06:00,Link to America/Regina,,,America/Regina,-360,-360
+,,Canada/Mountain,,-07:00,-06:00,Link to America/Edmonton,,,America/Edmonton,-420,-360
+,,Canada/Newfoundland,,-03:30,-02:30,Link to America/St_Johns,,,America/St_Johns,-210,-150
+,,Canada/Pacific,,-08:00,-07:00,Link to America/Vancouver,,,America/Vancouver,-480,-420
+,,Canada/Saskatchewan,,-06:00,-06:00,Link to America/Regina,,,America/Regina,-360,-360
+,,Canada/Yukon,,-08:00,-07:00,Link to America/Whitehorse,,,America/Whitehorse,-480,-420
+,,CET,,+01:00,+02:00,,,,,60,120
+,,Chile/Continental,,-04:00,-03:00,Link to America/Santiago,,,America/Santiago,-240,-180
+,,Chile/EasterIsland,,-06:00,-05:00,Link to Pacific/Easter,,,Pacific/Easter,-360,-300
+,,CST6CDT,,-06:00,-05:00,,,,,-360,-300
+,,Cuba,,-05:00,-04:00,Link to America/Havana,,,America/Havana,-300,-240
+,,EET,,+02:00,+03:00,,,,,120,180
+,,Egypt,,+02:00,+02:00,Link to Africa/Cairo,,,Africa/Cairo,120,120
+,,Eire,,+00:00,+01:00,Link to Europe/Dublin,,,Europe/Dublin,0,60
+,,EST,,-05:00,-05:00,,,,,-300,-300
+,,EST5EDT,,-05:00,-04:00,,,,,-300,-240
+,,Etc./GMT,,+00:00,+00:00,Link to UTC,,,UTC,0,0
+,,Etc./GMT+0,,+00:00,+00:00,Link to UTC,,,UTC,0,0
+,,Etc./UCT,,+00:00,+00:00,Link to UTC,,,UTC,0,0
+,,Etc./Universal,,+00:00,+00:00,Link to UTC,,,UTC,0,0
+,,Etc./UTC,,+00:00,+00:00,Link to UTC,,,UTC,0,0
+,,Etc./Zulu,,+00:00,+00:00,Link to UTC,,,UTC,0,0
+NL,+5222+00454,Europe/Amsterdam,,+01:00,+02:00,,ISO 3166-1:NL,/wiki/ISO_3166-1:NL,,60,120
+AD,+4230+00131,Europe/Andorra,,+01:00,+02:00,,ISO 3166-1:AD,/wiki/ISO_3166-1:AD,,60,120
+GR,+3758+02343,Europe/Athens,,+02:00,+03:00,,ISO 3166-1:GR,/wiki/ISO_3166-1:GR,,120,180
+,,Europe/Belfast,,+00:00,+01:00,Link to Europe/London,,,Europe/London,0,60
+RS,+4450+02030,Europe/Belgrade,,+01:00,+02:00,,ISO 3166-1:RS,/wiki/ISO_3166-1:RS,,60,120
+DE,+5230+01322,Europe/Berlin,,+01:00,+02:00,"In 1945, the Trizone did not follow Berlin's switch to DST, see Time in Germany",ISO 3166-1:DE,/wiki/ISO_3166-1:DE,,60,120
+SK,+4809+01707,Europe/Bratislava,,+01:00,+02:00,Link to Europe/Prague,ISO 3166-1:SK,/wiki/ISO_3166-1:SK,Europe/Prague,60,120
+BE,+5050+00420,Europe/Brussels,,+01:00,+02:00,,ISO 3166-1:BE,/wiki/ISO_3166-1:BE,,60,120
+RO,+4426+02606,Europe/Bucharest,,+02:00,+03:00,,ISO 3166-1:RO,/wiki/ISO_3166-1:RO,,120,180
+HU,+4730+01905,Europe/Budapest,,+01:00,+02:00,,ISO 3166-1:HU,/wiki/ISO_3166-1:HU,,60,120
+MD,+4700+02850,Europe/Chisinau,,+02:00,+03:00,,ISO 3166-1:MD,/wiki/ISO_3166-1:MD,,120,180
+DK,+5540+01235,Europe/Copenhagen,,+01:00,+02:00,,ISO 3166-1:DK,/wiki/ISO_3166-1:DK,,60,120
+IE,+5320-00615,Europe/Dublin,,+00:00,+01:00,,ISO 3166-1:IE,/wiki/ISO_3166-1:IE,,0,60
+GI,+3608-00521,Europe/Gibraltar,,+01:00,+02:00,,ISO 3166-1:GI,/wiki/ISO_3166-1:GI,,60,120
+GG,+4927-00232,Europe/Guernsey,,+00:00,+01:00,Link to Europe/London,ISO 3166-1:GG,/wiki/ISO_3166-1:GG,Europe/London,0,60
+FI,+6010+02458,Europe/Helsinki,,+02:00,+03:00,,ISO 3166-1:FI,/wiki/ISO_3166-1:FI,,120,180
+IM,+5409-00428,Europe/Isle_of_Man,,+00:00,+01:00,Link to Europe/London,ISO 3166-1:IM,/wiki/ISO_3166-1:IM,Europe/London,0,60
+TR,+4101+02858,Europe/Istanbul,,+02:00,+03:00,,ISO 3166-1:TR,/wiki/ISO_3166-1:TR,,120,180
+JE,+4912-00207,Europe/Jersey,,+00:00,+01:00,Link to Europe/London,ISO 3166-1:JE,/wiki/ISO_3166-1:JE,Europe/London,0,60
+RU,+5443+02030,Europe/Kaliningrad,Moscow-01 - Kaliningrad,+03:00,+03:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,180,180
+UA,+5026+03031,Europe/Kyiv,most locations,+02:00,+03:00,,ISO 3166-1:UA,/wiki/ISO_3166-1:UA,,120,180
+PT,+3843-00908,Europe/Lisbon,mainland,+00:00,+01:00,,ISO 3166-1:PT,/wiki/ISO_3166-1:PT,,0,60
+SI,+4603+01431,Europe/Ljubljana,,+01:00,+02:00,Link to Europe/Belgrade,ISO 3166-1:SI,/wiki/ISO_3166-1:SI,Europe/Belgrade,60,120
+GB,+513030-0000731,Europe/London,,+00:00,+01:00,,ISO 3166-1:GB,/wiki/ISO_3166-1:GB,,0,60
+LU,+4936+00609,Europe/Luxembourg,,+01:00,+02:00,,ISO 3166-1:LU,/wiki/ISO_3166-1:LU,,60,120
+ES,+4024-00341,Europe/Madrid,mainland,+01:00,+02:00,,ISO 3166-1:ES,/wiki/ISO_3166-1:ES,,60,120
+MT,+3554+01431,Europe/Malta,,+01:00,+02:00,,ISO 3166-1:MT,/wiki/ISO_3166-1:MT,,60,120
+AX,+6006+01957,Europe/Mariehamn,,+02:00,+03:00,Link to Europe/Helsinki,ISO 3166-1:AX,/wiki/ISO_3166-1:AX,Europe/Helsinki,120,180
+BY,+5354+02734,Europe/Minsk,,+03:00,+03:00,,ISO 3166-1:BY,/wiki/ISO_3166-1:BY,,180,180
+MC,+4342+00723,Europe/Monaco,,+01:00,+02:00,,ISO 3166-1:MC,/wiki/ISO_3166-1:MC,,60,120
+RU,+5545+03735,Europe/Moscow,Moscow+00 - west Russia,+04:00,+04:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,240,240
+,,Europe/Nicosia,,+02:00,+03:00,Link to Asia/Nicosia,,,Asia/Nicosia,120,180
+NO,+5955+01045,Europe/Oslo,,+01:00,+02:00,,ISO 3166-1:NO,/wiki/ISO_3166-1:NO,,60,120
+FR,+4852+00220,Europe/Paris,,+01:00,+02:00,,ISO 3166-1:FR,/wiki/ISO_3166-1:FR,,60,120
+ME,+4226+01916,Europe/Podgorica,,+01:00,+02:00,Link to Europe/Belgrade,ISO 3166-1:ME,/wiki/ISO_3166-1:ME,Europe/Belgrade,60,120
+CZ,+5005+01426,Europe/Prague,,+01:00,+02:00,,ISO 3166-1:CZ,/wiki/ISO_3166-1:CZ,,60,120
+LV,+5657+02406,Europe/Riga,,+02:00,+03:00,,ISO 3166-1:LV,/wiki/ISO_3166-1:LV,,120,180
+IT,+4154+01229,Europe/Rome,,+01:00,+02:00,,ISO 3166-1:IT,/wiki/ISO_3166-1:IT,,60,120
+RU,+5312+05009,Europe/Samara,"Moscow+00 - Samara, Udmurtia",+04:00,+04:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,240,240
+SM,+4355+01228,Europe/San_Marino,,+01:00,+02:00,Link to Europe/Rome,ISO 3166-1:SM,/wiki/ISO_3166-1:SM,Europe/Rome,60,120
+BA,+4352+01825,Europe/Sarajevo,,+01:00,+02:00,Link to Europe/Belgrade,ISO 3166-1:BA,/wiki/ISO_3166-1:BA,Europe/Belgrade,60,120
+UA,+4457+03406,Europe/Simferopol,central Crimea,+02:00,+03:00,,ISO 3166-1:UA,/wiki/ISO_3166-1:UA,,120,180
+MK,+4159+02126,Europe/Skopje,,+01:00,+02:00,Link to Europe/Belgrade,ISO 3166-1:MK,/wiki/ISO_3166-1:MK,Europe/Belgrade,60,120
+BG,+4241+02319,Europe/Sofia,,+02:00,+03:00,,ISO 3166-1:BG,/wiki/ISO_3166-1:BG,,120,180
+SE,+5920+01803,Europe/Stockholm,,+01:00,+02:00,,ISO 3166-1:SE,/wiki/ISO_3166-1:SE,,60,120
+EE,+5925+02445,Europe/Tallinn,,+02:00,+03:00,,ISO 3166-1:EE,/wiki/ISO_3166-1:EE,,120,180
+AL,+4120+01950,Europe/Tirane,,+01:00,+02:00,,ISO 3166-1:AL,/wiki/ISO_3166-1:AL,,60,120
+,,Europe/Tiraspol,,+02:00,+03:00,Link to Europe/Chisinau,,,Europe/Chisinau,120,180
+UA,+4837+02218,Europe/Uzhgorod,Ruthenia,+02:00,+03:00,,ISO 3166-1:UA,/wiki/ISO_3166-1:UA,,120,180
+LI,+4709+00931,Europe/Vaduz,,+01:00,+02:00,,ISO 3166-1:LI,/wiki/ISO_3166-1:LI,,60,120
+VA,+415408+0122711,Europe/Vatican,,+01:00,+02:00,Link to Europe/Rome,ISO 3166-1:VA,/wiki/ISO_3166-1:VA,Europe/Rome,60,120
+AT,+4813+01620,Europe/Vienna,,+01:00,+02:00,,ISO 3166-1:AT,/wiki/ISO_3166-1:AT,,60,120
+LT,+5441+02519,Europe/Vilnius,,+02:00,+03:00,,ISO 3166-1:LT,/wiki/ISO_3166-1:LT,,120,180
+RU,+4844+04425,Europe/Volgograd,Moscow+00 - Caspian Sea,+04:00,+04:00,,ISO 3166-1:RU,/wiki/ISO_3166-1:RU,,240,240
+PL,+5215+02100,Europe/Warsaw,,+01:00,+02:00,,ISO 3166-1:PL,/wiki/ISO_3166-1:PL,,60,120
+HR,+4548+01558,Europe/Zagreb,,+01:00,+02:00,Link to Europe/Belgrade,ISO 3166-1:HR,/wiki/ISO_3166-1:HR,Europe/Belgrade,60,120
+UA,+4750+03510,Europe/Zaporozhye,"Zaporozh'ye, E Lugansk / Zaporizhia, E Luhansk",+02:00,+03:00,,ISO 3166-1:UA,/wiki/ISO_3166-1:UA,,120,180
+CH,+4723+00832,Europe/Zurich,,+01:00,+02:00,,ISO 3166-1:CH,/wiki/ISO_3166-1:CH,,60,120
+,,GB,,+00:00,+01:00,Link to Europe/London,,,Europe/London,0,60
+,,GB-Eire,,+00:00,+01:00,Link to Europe/London,,,Europe/London,0,60
+,,GMT,,+00:00,+00:00,Link to UTC,,,UTC,0,0
+,,GMT+0,,+00:00,+00:00,Link to UTC,,,UTC,0,0
+,,GMT0,,+00:00,+00:00,Link to UTC,,,UTC,0,0
+,,GMT-0,,+00:00,+00:00,Link to UTC,,,UTC,0,0
+,,Greenwich,,+00:00,+00:00,Link to UTC,,,UTC,0,0
+,,Hong Kong,,+08:00,+08:00,Link to Asia/Hong_Kong,,,Asia/Hong_Kong,480,480
+,,HST,,-10:00,-10:00,,,,,-600,-600
+,,Iceland,,+00:00,+00:00,Link to Atlantic/Reykjavik,,,Atlantic/Reykjavik,0,0
+MG,-1855+04731,Indian/Antananarivo,,+03:00,+03:00,,ISO 3166-1:MG,/wiki/ISO_3166-1:MG,,180,180
+IO,-0720+07225,Indian/Chagos,,+06:00,+06:00,,ISO 3166-1:IO,/wiki/ISO_3166-1:IO,,360,360
+CX,-1025+10543,Indian/Christmas,,+07:00,+07:00,,ISO 3166-1:CX,/wiki/ISO_3166-1:CX,,420,420
+CC,-1210+09655,Indian/Cocos,,+06:30,+06:30,,ISO 3166-1:CC,/wiki/ISO_3166-1:CC,,390,390
+KM,-1141+04316,Indian/Comoro,,+03:00,+03:00,,ISO 3166-1:KM,/wiki/ISO_3166-1:KM,,180,180
+TF,-492110+0701303,Indian/Kerguelen,,+05:00,+05:00,,ISO 3166-1:TF,/wiki/ISO_3166-1:TF,,300,300
+SC,-0440+05528,Indian/Mahe,,+04:00,+04:00,,ISO 3166-1:SC,/wiki/ISO_3166-1:SC,,240,240
+MV,+0410+07330,Indian/Maldives,,+05:00,+05:00,,ISO 3166-1:MV,/wiki/ISO_3166-1:MV,,300,300
+MU,-2010+05730,Indian/Mauritius,,+04:00,+04:00,,ISO 3166-1:MU,/wiki/ISO_3166-1:MU,,240,240
+YT,-1247+04514,Indian/Mayotte,,+03:00,+03:00,,ISO 3166-1:YT,/wiki/ISO_3166-1:YT,,180,180
+RE,-2052+05528,Indian/Reunion,,+04:00,+04:00,,ISO 3166-1:RE,/wiki/ISO_3166-1:RE,,240,240
+,,Iran,,+03:30,+04:30,Link to Asia/Tehran,,,Asia/Tehran,210,270
+,,Israel,,+02:00,+03:00,Link to Asia/Jerusalem,,,Asia/Jerusalem,120,180
+,,Jamaica,,-05:00,-05:00,Link to America/Jamaica,,,America/Jamaica,-300,-300
+,,Japan,,+09:00,+09:00,Link to Asia/Tokyo,,,Asia/Tokyo,540,540
+,,JST-9,,+09:00,+09:00,Link to Asia/Tokyo,,,Asia/Tokyo,540,540
+,,Kwajalein,,+12:00,+12:00,Link to Pacific/Kwajalein,,,Pacific/Kwajalein,720,720
+,,Libya,,+02:00,+02:00,Link to Africa/Tripoli,,,Africa/Tripoli,120,120
+,,MET,,+01:00,+02:00,,,,,60,120
+,,Mexico/BajaNorte,,-08:00,-07:00,Link to America/Tijuana,,,America/Tijuana,-480,-420
+,,Mexico/BajaSur,,-07:00,-06:00,Link to America/Mazatlan,,,America/Mazatlan,-420,-360
+,,Mexico/General,,-06:00,-05:00,Link to America/Mexico_City,,,America/Mexico_City,-360,-300
+,,MST,,-07:00,-07:00,,,,,-420,-420
+,,MST7MDT,,-07:00,-06:00,,,,,-420,-360
+,,Navajo,,-07:00,-06:00,Link to America/Denver,,,America/Denver,-420,-360
+,,NZ,,+12:00,+13:00,Link to Pacific/Auckland,,,Pacific/Auckland,720,780
+,,NZ-CHAT,,+12:45,+13:45,Link to Pacific/Chatham,,,Pacific/Chatham,765,825
+WS,-1350-17144,Pacific/Apia,,+13:00,+14:00,,ISO 3166-1:WS,/wiki/ISO_3166-1:WS,,780,840
+NZ,-3652+17446,Pacific/Auckland,most locations,+12:00,+13:00,,ISO 3166-1:NZ,/wiki/ISO_3166-1:NZ,,720,780
+NZ,-4357-17633,Pacific/Chatham,Chatham Islands,+12:45,+13:45,,ISO 3166-1:NZ,/wiki/ISO_3166-1:NZ,,765,825
+FM,+0725+15147,Pacific/Chuuk,Chuuk (Truk) and Yap,+10:00,+10:00,,ISO 3166-1:FM,/wiki/ISO_3166-1:FM,,600,600
+CL,-2709-10926,Pacific/Easter,Easter Island & Sala y Gomez,-06:00,-05:00,,ISO 3166-1:CL,/wiki/ISO_3166-1:CL,,-360,-300
+VU,-1740+16825,Pacific/Efate,,+11:00,+11:00,,ISO 3166-1:VU,/wiki/ISO_3166-1:VU,,660,660
+KI,-0308-17105,Pacific/Enderbury,Phoenix Islands,+13:00,+13:00,,ISO 3166-1:KI,/wiki/ISO_3166-1:KI,,780,780
+TK,-0922-17114,Pacific/Fakaofo,,+13:00,+13:00,,ISO 3166-1:TK,/wiki/ISO_3166-1:TK,,780,780
+FJ,-1808+17825,Pacific/Fiji,,+12:00,+13:00,,ISO 3166-1:FJ,/wiki/ISO_3166-1:FJ,,720,780
+TV,-0831+17913,Pacific/Funafuti,,+12:00,+12:00,,ISO 3166-1:TV,/wiki/ISO_3166-1:TV,,720,720
+EC,-0054-08936,Pacific/Galapagos,Galapagos Islands,-06:00,-06:00,,ISO 3166-1:EC,/wiki/ISO_3166-1:EC,,-360,-360
+PF,-2308-13457,Pacific/Gambier,Gambier Islands,-09:00,-09:00,,ISO 3166-1:PF,/wiki/ISO_3166-1:PF,,-540,-540
+SB,-0932+16012,Pacific/Guadalcanal,,+11:00,+11:00,,ISO 3166-1:SB,/wiki/ISO_3166-1:SB,,660,660
+GU,+1328+14445,Pacific/Guam,,+10:00,+10:00,,ISO 3166-1:GU,/wiki/ISO_3166-1:GU,,600,600
+US,+211825-1575130,Pacific/Honolulu,Hawaii,-10:00,-10:00,,ISO 3166-1:US,/wiki/ISO_3166-1:US,,-600,-600
+UM,+1645-16931,Pacific/Johnston,Johnston Atoll,-10:00,-10:00,,ISO 3166-1:UM,/wiki/ISO_3166-1:UM,,-600,-600
+KI,+0152-15720,Pacific/Kiritimati,Line Islands,+14:00,+14:00,,ISO 3166-1:KI,/wiki/ISO_3166-1:KI,,840,840
+FM,+0519+16259,Pacific/Kosrae,Kosrae,+11:00,+11:00,,ISO 3166-1:FM,/wiki/ISO_3166-1:FM,,660,660
+MH,+0905+16720,Pacific/Kwajalein,Kwajalein,+12:00,+12:00,,ISO 3166-1:MH,/wiki/ISO_3166-1:MH,,720,720
+MH,+0709+17112,Pacific/Majuro,most locations,+12:00,+12:00,,ISO 3166-1:MH,/wiki/ISO_3166-1:MH,,720,720
+PF,-0900-13930,Pacific/Marquesas,Marquesas Islands,-09:30,-09:30,,ISO 3166-1:PF,/wiki/ISO_3166-1:PF,,-570,-570
+UM,+2813-17722,Pacific/Midway,Midway Islands,-11:00,-11:00,,ISO 3166-1:UM,/wiki/ISO_3166-1:UM,,-660,-660
+NR,-0031+16655,Pacific/Nauru,,+12:00,+12:00,,ISO 3166-1:NR,/wiki/ISO_3166-1:NR,,720,720
+NU,-1901-16955,Pacific/Niue,,-11:00,-11:00,,ISO 3166-1:NU,/wiki/ISO_3166-1:NU,,-660,-660
+NF,-2903+16758,Pacific/Norfolk,,+11:30,+11:30,,ISO 3166-1:NF,/wiki/ISO_3166-1:NF,,690,690
+NC,-2216+16627,Pacific/Noumea,,+11:00,+11:00,,ISO 3166-1:NC,/wiki/ISO_3166-1:NC,,660,660
+AS,-1416-17042,Pacific/Pago_Pago,,-11:00,-11:00,,ISO 3166-1:AS,/wiki/ISO_3166-1:AS,,-660,-660
+PW,+0720+13429,Pacific/Palau,,+09:00,+09:00,,ISO 3166-1:PW,/wiki/ISO_3166-1:PW,,540,540
+PN,-2504-13005,Pacific/Pitcairn,,-08:00,-08:00,,ISO 3166-1:PN,/wiki/ISO_3166-1:PN,,-480,-480
+FM,+0658+15813,Pacific/Pohnpei,Pohnpei (Ponape),+11:00,+11:00,,ISO 3166-1:FM,/wiki/ISO_3166-1:FM,,660,660
+,,Pacific/Ponape,,+11:00,+11:00,Link to Pacific/Pohnpei,,,Pacific/Pohnpei,660,660
+PG,-0930+14710,Pacific/Port_Moresby,,+10:00,+10:00,,ISO 3166-1:PG,/wiki/ISO_3166-1:PG,,600,600
+CK,-2114-15946,Pacific/Rarotonga,,-10:00,-10:00,,ISO 3166-1:CK,/wiki/ISO_3166-1:CK,,-600,-600
+MP,+1512+14545,Pacific/Saipan,,+10:00,+10:00,,ISO 3166-1:MP,/wiki/ISO_3166-1:MP,,600,600
+,,Pacific/Samoa,,-11:00,-11:00,Link to Pacific/Pago_Pago,,,Pacific/Pago_Pago,-660,-660
+PF,-1732-14934,Pacific/Tahiti,Society Islands,-10:00,-10:00,,ISO 3166-1:PF,/wiki/ISO_3166-1:PF,,-600,-600
+KI,+0125+17300,Pacific/Tarawa,Gilbert Islands,+12:00,+12:00,,ISO 3166-1:KI,/wiki/ISO_3166-1:KI,,720,720
+TO,-2110-17510,Pacific/Tongatapu,,+13:00,+13:00,,ISO 3166-1:TO,/wiki/ISO_3166-1:TO,,780,780
+,,Pacific/Truk,,+10:00,+10:00,Link to Pacific/Chuuk,,,Pacific/Chuuk,600,600
+UM,+1917+16637,Pacific/Wake,Wake Island,+12:00,+12:00,,ISO 3166-1:UM,/wiki/ISO_3166-1:UM,,720,720
+WF,-1318-17610,Pacific/Wallis,,+12:00,+12:00,,ISO 3166-1:WF,/wiki/ISO_3166-1:WF,,720,720
+,,Pacific/Yap,,+10:00,+10:00,Link to Pacific/Chuuk,,,Pacific/Chuuk,600,600
+,,Poland,,+01:00,+02:00,Link to Europe/Warsaw,,,Europe/Warsaw,60,120
+,,Portugal,,+00:00,+01:00,Link to Europe/Lisbon,,,Europe/Lisbon,0,60
+,,PRC,,+08:00,+08:00,Link to Asia/Shanghai,,,Asia/Shanghai,480,480
+,,PST8PDT,,-08:00,-07:00,,,,,-480,-420
+,,ROC,,+08:00,+08:00,Link to Asia/Taipei,,,Asia/Taipei,480,480
+,,ROK,,+09:00,+09:00,Link to Asia/Seoul,,,Asia/Seoul,540,540
+,,Singapore,,+08:00,+08:00,Link to Asia/Singapore,,,Asia/Singapore,480,480
+,,Turkey,,+02:00,+03:00,Link to Europe/Istanbul,,,Europe/Istanbul,120,180
+,,UCT,,+00:00,+00:00,Link to UTC,,,UTC,0,0
+,,Universal,,+00:00,+00:00,Link to UTC,,,UTC,0,0
+,,US/Alaska,,-09:00,-08:00,Link to America/Anchorage,,,America/Anchorage,-540,-480
+,,US/Aleutian,,-10:00,-09:00,Link to America/Adak,,,America/Adak,-600,-540
+,,US/Arizona,,-07:00,-07:00,Link to America/Phoenix,,,America/Phoenix,-420,-420
+,,US/Central,,-06:00,-05:00,Link to America/Chicago,,,America/Chicago,-360,-300
+,,US/Eastern,,-05:00,-04:00,Link to America/New_York,,,America/New_York,-300,-240
+,,US/East-Indiana,,-05:00,-04:00,Link to America/Indiana/Indianapolis,,,America/Indiana/Indianapolis,-300,-240
+,,US/Hawaii,,-10:00,-10:00,Link to Pacific/Honolulu,,,Pacific/Honolulu,-600,-600
+,,US/Indiana-Starke,,-06:00,-05:00,Link to America/Indiana/Knox,,,America/Indiana/Knox,-360,-300
+,,US/Michigan,,-05:00,-04:00,Link to America/Detroit,,,America/Detroit,-300,-240
+,,US/Mountain,,-07:00,-06:00,Link to America/Denver,,,America/Denver,-420,-360
+,,US/Pacific,,-08:00,-07:00,Link to America/Los_Angeles,,,America/Los_Angeles,-480,-420
+,,US/Pacific-New,,-08:00,-07:00,Link to America/Los_Angeles,,,America/Los_Angeles,-480,-420
+,,US/Samoa,,-11:00,-11:00,Link to Pacific/Pago_Pago,,,Pacific/Pago_Pago,-660,-660
+,,UTC,,+00:00,+00:00,,,,,0,0
+,,WET,,+00:00,+01:00,,,,,0,60
+,,W-SU,,+04:00,+04:00,Link to Europe/Moscow,,,Europe/Moscow,240,240
+,,Zulu,,+00:00,+00:00,Link to UTC,,,UTC,0,0
