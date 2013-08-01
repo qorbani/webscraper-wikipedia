@@ -4,7 +4,13 @@
 
     var timezoneExport = require('../').timezone.exporter;
 
-    timezoneExport.saveAsCSV('../data/timezone.csv', function (err, count) {
+    var csvOptions = {
+        delimiter: ',',
+        header: true,
+        quoted: false
+    };
+
+    timezoneExport.saveAsCSV('../data/timezone.csv', csvOptions, function (err, count) {
         if (err) {
             console.log('Error in generating timezone.csv: ' + err);
         } else {
@@ -12,7 +18,11 @@
         }
     });
 
-    timezoneExport.saveAsJSON('../data/timezone.json', function (err, count) {
+    var jsonOptions = {
+        space: 4
+    };
+
+    timezoneExport.saveAsJSON('../data/timezone.json', jsonOptions, function (err, count) {
         if (err) {
             console.log('Error in generating timezone.json: ' + err);
         } else {
